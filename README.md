@@ -11,7 +11,7 @@ A simple and intuitive to-do list application to help you keep track of your tas
 
 ## Screenshot
 
-![To-Do List App Screenshot]()
+![To-Do List App Screenshot](https://raw.githubusercontent.com/debapriyo007/Todo/main/images/Todo-SC.png)
 
 ## Usage
 
@@ -29,7 +29,7 @@ A simple and intuitive to-do list application to help you keep track of your tas
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/Todo.git
+    git clone https://github.com/debapriyo007/Todo.git
     ```
 2. Navigate to the project directory:
     ```bash
